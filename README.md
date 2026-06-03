@@ -11,11 +11,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="180" />
   </a>
 
+  <!-- Streak Stats -->
+  <a href="https://github.com/dev3Masud">
+    <img src="https://streak-stats.demolab.com/?user=dev3Masud&theme=tokyonight&hide_border=true&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="180" />
+  </a>
+
   <!-- Badges -->
   <p>
     <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/GitHub-dev3Masud-00d4ff?style=for-the-badge&logo=github" /></a>
-    <a href="mailto:masud50cf@gmail.com"><img src="https://img.shields.io/badge/Email-masud50cf@gmail.com-00d4ff?style=for-the-badge&logo=gmail" /></a>
     <a href="https://linkedin.com/in/dev3Masud"><img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://dev3Masud.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=globe" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=dev3Masud&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
@@ -52,6 +57,35 @@ I'm an **AI Engineering student** focused on building production-ready AI tools 
 | **DevOps & Cloud** | `GitHub Actions` `Vercel` `Azure` `Docker` `CI/CD` |
 | **Tools** | `Git` `GitHub Copilot` `Postman` `VMware Workstation` `Linux` |
 
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev3Masud&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-profile-trophy.vercel.app/?username=dev3Masud&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev3Masud&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
+  </a>
 </div>
 
 ---
@@ -95,42 +129,24 @@ I'm an **AI Engineering student** focused on building production-ready AI tools 
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev3Masud&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev3Masud&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://github.com/dev3Masud">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-00d4ff?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:masud50cf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-00d4ff?style=for-the-badge&logo=gmail" />
+  <a href="https://linkedin.com/in/dev3Masud">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://dev3Masud.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=globe" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dev3Masud/dev3Masud/main/assets/animation_500_kqmbqfed.gif" width="250" />
-  <br><br>
+  <br>
   <sub>
     <b>⚡ Built with passion by dev3Masud</b>
     <br>

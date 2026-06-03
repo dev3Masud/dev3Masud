@@ -5,13 +5,13 @@
 
   <!-- Hero Stats -->
   <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="dev3Masud's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/dev3Masud">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="180" />
   </a>
 
-  <!-- Streak Stats -->
+  <!-- Streak -->
   <a href="https://github.com/dev3Masud">
     <img src="https://streak-stats.demolab.com/?user=dev3Masud&theme=tokyonight&hide_border=true&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="180" />
   </a>
@@ -23,6 +23,7 @@
     <a href="https://dev3Masud.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-00d4ff?style=for-the-badge&logo=globe" /></a>
   </p>
 
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=dev3Masud&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
 </div>
 
@@ -85,21 +86,6 @@ I'm an **AI Engineering student** focused on building production-ready AI tools 
   </a>
   <a href="https://github.com/dev3Masud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev3Masud&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
-  </a>
-</div>
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Image-Converter-vercel](https://github.com/dev3Masud/Image-Converter-vercel)** | Serverless image processing engine optimized for Vercel edge deployment | `Python` `Vercel` `FastAPI` |
-| **AI Chat Bot** *(Coming Soon)* | Intelligent, context-aware conversational agent with LLM integration | `Python` `OpenAI API` `LangChain` |
-
-<div align="center">
-  <a href="https://github.com/dev3Masud?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00d4ff?style=for-the-badge&logo=github" />
   </a>
 </div>
 

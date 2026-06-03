@@ -3,19 +3,6 @@
 
 <div align="center">
 
-  <!-- Hero Stats -->
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="180" />
-  </a>
-
-  <!-- Streak -->
-  <a href="https://github.com/dev3Masud">
-    <img src="https://streak-stats.demolab.com/?user=dev3Masud&theme=tokyonight&hide_border=true&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" height="180" />
-  </a>
-
   <!-- Badges -->
   <p>
     <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/GitHub-dev3Masud-00d4ff?style=for-the-badge&logo=github" /></a>
@@ -73,19 +60,6 @@ I'm an **AI Engineering student** focused on building production-ready AI tools 
 <div align="center">
   <a href="https://github.com/dev3Masud">
     <img src="https://github-profile-trophy.vercel.app/?username=dev3Masud&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/dev3Masud">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev3Masud&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
   </a>
 </div>
 

@@ -1,53 +1,139 @@
 # ⚡ Abdullah Al Masud | dev3Masud
-#### `AI Engineering Student & High-Performance Developer`
+### `AI Engineering Student & High-Performance Developer`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="dev3Masud's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="170" />
+
+  <!-- Hero Stats -->
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev3Masud&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" alt="dev3Masud's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev3Masud&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=ffffff" alt="Top Languages" height="180" />
+  </a>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/GitHub-dev3Masud-00d4ff?style=for-the-badge&logo=github" /></a>
+    <a href="mailto:masud50cf@gmail.com"><img src="https://img.shields.io/badge/Email-masud50cf@gmail.com-00d4ff?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://linkedin.com/in/dev3Masud"><img src="https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=dev3Masud&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-### 🚀 Performance Profile
-> "Obsessed with building scalable AI solutions at the speed of thought."
-
-- 🎓 **Current Sprint:** Completing the **GitHub Student Developer Pack** (April 2026 Batch).
-- 🐍 **Specialization:** Python-based automation, **FastAPI** backend architecture, and AI integrations.
-- ☁️ **Infrastructure:** Future-proofing apps via **Microsoft Azure** and **Vercel** deployments.
-- ⚡ **Goal:** Engineering 10+ production-ready AI tools by year-end.
-
----
-
-### 🛠️ Professional Arsenal
-| Category | Tech Stack |
-| :--- | :--- |
-| **Backend & AI** | `Python` `FastAPI` `Flask` `OpenAI API` |
-| **Frontend** | `Modern HTML5` `CSS3` `Vanilla JavaScript` |
-| **DevOps & Cloud** | `GitHub Actions` `Vercel` `Azure` `Docker` |
-| **Tools** | `GitHub Copilot` `VMware` `Linux` |
-
----
-
-### 📂 Featured Sprints (Current Work)
-- **[Image-Converter-vercel](https://github.com/dev3Masud/Image-Converter-vercel)** *A serverless image processing engine optimized for Vercel edge deployment.*
-- **AI Chat Bot** (Coming Soon)
-  *An intelligent, context-aware conversational agent built with Python and LLM APIs.*
-
----
-
-### 📈 Current Learning Sprint
-| Topic | Progress | Level |
-| :--- | :---: | :--- |
-| **Python / FastAPI** | ██████████████░░░ | Advanced |
-| **Microsoft Azure** | ██████░░░░░░░░░░░ | Intermediate |
-| **AI Prompt Engineering** | ██████████░░░░░░░ | Intermediate |
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev3Masud&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
-</p>
+## 🚀 About Me
 
 <div align="center">
-  <sub>Built with ⚡ by <b>dev3Masud</b> | © 2026 </sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=AI+Engineering+Student;Python+%7C+FastAPI+%7C+AI+Developer;Building+Scalable+AI+Solutions;Azure+%7C+Vercel+%7C+Docker+Enthusiast" alt="Typing SVG" />
+</div>
+
+> **"Building intelligent systems at the intersection of AI, performance, and developer experience."**
+
+I'm an **AI Engineering student** focused on building production-ready AI tools and scalable backend systems. Currently sprinting through advanced Python, FastAPI backend architecture, and cloud deployments.
+
+- 🎓 **Current Focus:** GitHub Student Developer Pack (April 2026 Batch)
+- 🐍 **Specialization:** Python automation, **FastAPI** backends, AI integrations
+- ☁️ **Cloud:** Microsoft Azure, Vercel, Docker
+- ⚡ **Mission:** Ship 10+ production-ready AI tools before year-end
+- 🧠 **Philosophy:** Clean code, fast iteration, real-world impact
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & AI** | `Python` `FastAPI` `Flask` `OpenAI API` `LangChain` `Pandas` |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `Tailwind CSS` |
+| **DevOps & Cloud** | `GitHub Actions` `Vercel` `Azure` `Docker` `CI/CD` |
+| **Tools** | `Git` `GitHub Copilot` `Postman` `VMware Workstation` `Linux` |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Image-Converter-vercel](https://github.com/dev3Masud/Image-Converter-vercel)** | Serverless image processing engine optimized for Vercel edge deployment | `Python` `Vercel` `FastAPI` |
+| **AI Chat Bot** *(Coming Soon)* | Intelligent, context-aware conversational agent with LLM integration | `Python` `OpenAI API` `LangChain` |
+
+<div align="center">
+  <a href="https://github.com/dev3Masud?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-00d4ff?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+---
+
+## 📈 Skills & Learning Progress
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Python / FastAPI</b><br>
+      <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/Level-Advanced-00d4ff?style=flat-square" /></a><br>
+      ██████████████░░░
+    </td>
+    <td align="center">
+      <b>Microsoft Azure</b><br>
+      <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/Level-Intermediate-00d4ff?style=flat-square" /></a><br>
+      ██████░░░░░░░░░░░
+    </td>
+    <td align="center">
+      <b>AI Prompt Engineering</b><br>
+      <a href="https://github.com/dev3Masud"><img src="https://img.shields.io/badge/Level-Intermediate-00d4ff?style=flat-square" /></a><br>
+      ██████████░░░░░░░
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev3Masud&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://github-profile-trophy.vercel.app/?username=dev3Masud&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/dev3Masud">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00d4ff?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:masud50cf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-00d4ff?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dev3Masud/dev3Masud/main/assets/animation_500_kqmbqfed.gif" width="250" />
+  <br><br>
+  <sub>
+    <b>⚡ Built with passion by dev3Masud</b>
+    <br>
+    © 2026 | Last updated: 2026-06-03
+  </sub>
 </div>
